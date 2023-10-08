@@ -50,6 +50,7 @@ public class Main {
 
                 default:
                     System.out.println("Invalid shape.");
+                    break;
 
             }
 
